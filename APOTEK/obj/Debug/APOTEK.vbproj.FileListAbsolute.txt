@@ -1,0 +1,33 @@
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.vbproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.Menu.resources
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.transaksi_pembelian.resources
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.transaksi_penjualan.resources
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.Login.resources
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.Resources.resources
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.vbproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\bin\Debug\APOTEK.exe.config
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\bin\Debug\APOTEK.exe
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\bin\Debug\APOTEK.pdb
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\bin\Debug\APOTEK.xml
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.exe
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.xml
+C:\Users\ASUS TUF GAMING\source\repos\APOTEK\APOTEK\obj\Debug\APOTEK.pdb
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\bin\Debug\APOTEK.exe.config
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\bin\Debug\APOTEK.exe
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\bin\Debug\APOTEK.pdb
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\bin\Debug\APOTEK.xml
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.vbproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.LaporanPembelian.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.LaporanPenjualan.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.Menu.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.transaksi_pembelian.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.transaksi_penjualan.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.Login.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.Resources.resources
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.vbproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.exe
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.xml
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.pdb
+C:\Users\ASUS TUF GAMING\Downloads\APOTEK (2)\APOTEK\APOTEK\obj\Debug\APOTEK.Obat.resources
